@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/textconv/static/css/main.198f9aa8.css",
+    "main.js": "/textconv/static/js/main.c5597dee.js",
+    "index.html": "/textconv/index.html",
+    "main.198f9aa8.css.map": "/textconv/static/css/main.198f9aa8.css.map",
+    "main.c5597dee.js.map": "/textconv/static/js/main.c5597dee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.198f9aa8.css",
+    "static/js/main.c5597dee.js"
+  ]
+}
